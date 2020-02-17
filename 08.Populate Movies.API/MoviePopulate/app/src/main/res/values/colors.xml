@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8F113C</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#E87F08</color>
+
+    <color name="pureWhite">#FFFFFF</color>
+    <color name="splashFontColor">#313030</color>
+
+    <color name="colorTitle">#0C274C</color>
+    <color name="editTextStroke">#696F74</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="placeholder">#302F2F</color>
+    <color name="error">#5C1515</color>
+</resources>
