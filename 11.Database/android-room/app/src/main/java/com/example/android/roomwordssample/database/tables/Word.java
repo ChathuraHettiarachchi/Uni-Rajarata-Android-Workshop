@@ -50,4 +50,14 @@ public class Word {
     public void setPriority(int priority) {
         this.priority = priority;
     }
+
+    @Override
+    public String toString() {
+        return "Word{" +
+                "id=" + id +
+                ", word='" + word + '\'' +
+                ", description='" + description + '\'' +
+                ", priority=" + priority +
+                '}';
+    }
 }
